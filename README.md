@@ -1,5 +1,5 @@
 # GRIP-TASK-2
-                                                        MACHINE LEARNING MODEL
+                                                MACHINE LEARNING MODEL
 
 TO EXPLORE SUPERVISED MACHINE LEARNING MODEL
 In this regression model we have to predict the percentage of marks that a student is expected to score based upon the number of hours they studied. 
